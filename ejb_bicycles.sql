@@ -1,0 +1,1 @@
+SELECT * FROM ejb_bicycles.bicycles;
